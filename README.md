@@ -1,6 +1,6 @@
-'HI I'm 3rdPheonix :D                   
+HI I'm 3rdPheonix :D                   
 Hope you have fun in my PF                  
-Open to any projects(Web, GUI, etc..)(Not that good <3)       
+Open to any projects(Web, GUI, etc..)(Not that good :p)       
 Quick Question anyone know how to write code in a Github file..?
 
 <!---
